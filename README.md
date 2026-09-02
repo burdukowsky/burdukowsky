@@ -3,7 +3,9 @@
 
 ---
 
+
+### About me
 - 🚀 **Current Focus:** React, TypeScript, Vite
 - 🛠️ **Past Experience:** Vue, Angular, Knockout.js, Webpack, RequireJS
-- 💼 **Cooperation:** B2B contractor
+- 💼 **Work Format:** B2B contractor (Registered Sole Proprietorship)
 - 🌍 **Time Zone:** Europe
